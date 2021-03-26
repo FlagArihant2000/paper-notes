@@ -18,6 +18,10 @@ It will be really great if the user of this repository suggests any errors in my
 
 1. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://hackmd.io/@dl-CpoNoTiysMYjEsQTDOw/BkYRf5gxd) (Written in collaboration with [Saketh Bachu](https://github.com/sakethbachu) and [Siddharth Singh](https://www.linkedin.com/in/siddharth-s-8a63a4120/))
 
+## Instance Segmentation
+
+1. [Mask R - CNN](https://hackmd.io/@GaurArihant/SyA4vA5Nu)
+
 ## Localization
 
 1. [ORB - SLAM: A Versatile and Accurate Monocular SLAM System](https://hackmd.io/@GaurArihant/S1Ypfo0e_)
