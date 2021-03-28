@@ -4,15 +4,28 @@ This repository consists of some of my paper notes. Most of the papers will be f
 
 It will be really great if the user of this repository suggests any errors in my notes. Also please star if this was useful for you!
 
-## 3D Computer Vision
+## 3D Reconstruction
 
 1. [PlaneNet: Piece - wise Planar Reconstruction from Single RGB Image](https://hackmd.io/@GaurArihant/S1rTzJDE_)
+2. [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://hackmd.io/@GaurArihant/Hkz1kVwVd)
+3. [Recovering 3D Planes from a Single Image via Convolutional Neural Networks](https://hackmd.io/@GaurArihant/H1DKifnEO)
+4. [Learning Pairwise Inter - Plane Relations for Piecewise Planar Reconstruction](https://hackmd.io/@GaurArihant/r1YxZKnE_)
 
 ## Feature Extraction, Description and Matching
 
 1. [Patch2Pix: Epipolar - Guided Pixel - Level Correspondences](https://hackmd.io/@GaurArihant/BJ5qmZZlu) (Written in collaboration with [Saurabh Kemekar](https://github.com/saurabhkemekar))
 2. [Neighbourhood Consensus Networks](https://hackmd.io/@GaurArihant/S1NAT2QJO) (Written in collaboration with [Saurabh Kemekar](https://github.com/saurabhkemekar))
 3. [SuperPoint: Self - Supervised Interest Point Detection and Description](https://hackmd.io/@GaurArihant/BJmth6Q1u) (Incomplete)
+
+## Localization
+
+1. [ORB - SLAM: A Versatile and Accurate Monocular SLAM System](https://hackmd.io/@GaurArihant/S1Ypfo0e_)
+2. [ORB - SLAM2: An Open Source SLAM System for Monocular, Stereo and RGB - D Cameras](https://hackmd.io/@GaurArihant/B1H0EAg4d)
+3. [ORB - SLAM3: An Accurate Open - Source Library for Visual, Visual - Inertial and Multi - Map SLAM](https://hackmd.io/@GaurArihant/H10JAReEd)
+
+## Graph Neural Networks
+
+1. [Conv - MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction](https://hackmd.io/@GaurArihant/SkZq6Y2VO)
 
 ## Object Detection
 
@@ -21,12 +34,6 @@ It will be really great if the user of this repository suggests any errors in my
 ## Instance Segmentation
 
 1. [Mask R - CNN](https://hackmd.io/@GaurArihant/SyA4vA5Nu)
-
-## Localization
-
-1. [ORB - SLAM: A Versatile and Accurate Monocular SLAM System](https://hackmd.io/@GaurArihant/S1Ypfo0e_)
-2. [ORB - SLAM2: An Open Source SLAM System for Monocular, Stereo and RGB - D Cameras](https://hackmd.io/@GaurArihant/B1H0EAg4d)
-3. [ORB - SLAM3: An Accurate Open - Source Library for Visual, Visual - Inertial and Multi - Map SLAM](https://hackmd.io/@GaurArihant/H10JAReEd)
 
 ## Multiview Geometry
 
