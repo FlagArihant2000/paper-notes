@@ -10,6 +10,7 @@ It will be really great if the user of this repository suggests any errors in my
 2. [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://hackmd.io/@GaurArihant/Hkz1kVwVd)
 3. [Recovering 3D Planes from a Single Image via Convolutional Neural Networks](https://hackmd.io/@GaurArihant/H1DKifnEO)
 4. [Learning Pairwise Inter - Plane Relations for Piecewise Planar Reconstruction](https://hackmd.io/@GaurArihant/r1YxZKnE_)
+5. [Single - Image Piece - wise Planar 3D Reconstruction via Associative Embedding](https://hackmd.io/@GaurArihant/HyXLNj2Vd)
 
 ## Feature Extraction, Description and Matching
 
