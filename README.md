@@ -18,11 +18,16 @@ It will be really great if the user of this repository suggests any errors in my
 2. [Neighbourhood Consensus Networks](https://hackmd.io/@GaurArihant/S1NAT2QJO) (Written in collaboration with [Saurabh Kemekar](https://github.com/saurabhkemekar))
 3. [SuperPoint: Self - Supervised Interest Point Detection and Description](https://hackmd.io/@GaurArihant/BJmth6Q1u) (Incomplete)
 
-## Localization
+## Classical SLAM/SfM
 
 1. [ORB - SLAM: A Versatile and Accurate Monocular SLAM System](https://hackmd.io/@GaurArihant/S1Ypfo0e_)
 2. [ORB - SLAM2: An Open Source SLAM System for Monocular, Stereo and RGB - D Cameras](https://hackmd.io/@GaurArihant/B1H0EAg4d)
 3. [ORB - SLAM3: An Accurate Open - Source Library for Visual, Visual - Inertial and Multi - Map SLAM](https://hackmd.io/@GaurArihant/H10JAReEd)
+
+## Learnable SLAM/SfM
+
+1. [Pseudo RGB - D for Self Improving Monocular SLAM and Depth Prediction](https://hackmd.io/@GaurArihant/H1MWqc1u_)
+2. [Fusing the Old with the New: Learning Relative Camera Pose with Geometry - Guided Uncertainty](https://hackmd.io/@GaurArihant/rkpr4-bOd)
 
 ## Graph Neural Networks
 
@@ -39,4 +44,5 @@ It will be really great if the user of this repository suggests any errors in my
 ## Multiview Geometry
 
 1. [A Fast and Accurate Solution for Pose Estimation from 3D Correspondences](https://hackmd.io/@GaurArihant/BkAgL280w)
+2. [Manhatten - world Stereo](https://hackmd.io/@GaurArihant/r1KGR1JSO)
 
