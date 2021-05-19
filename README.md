@@ -44,3 +44,10 @@ It will be really great if the user of this repository suggests any errors in my
 1. [A Fast and Accurate Solution for Pose Estimation from 3D Correspondences](https://hackmd.io/@GaurArihant/BkAgL280w)
 2. [Manhatten - world Stereo](https://hackmd.io/@GaurArihant/r1KGR1JSO)
 
+## Line Segment Detection
+
+1. [LSD: A Fast Line Segment Detector with a False Detection Control](https://hackmd.io/@GaurArihant/Hy3rYzMtu)
+2. [ULSD: Unified Line Segment Detection across Pinhole, Fisheye and Spherical Cameras](https://hackmd.io/@GaurArihant/ryG9tXztO)
+3. [End - to - End Wireframe Parsing](https://hackmd.io/@GaurArihant/HyyyPDMK_)
+4. [Learning to Parse Wireframes in Images of Man - Made Environments](https://hackmd.io/@GaurArihant/rk_L2PfFO)
+
