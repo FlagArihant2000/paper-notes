@@ -34,6 +34,7 @@ It will be really great if the user of this repository suggests any errors in my
 ## Object Detection
 
 1. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://hackmd.io/@dl-CpoNoTiysMYjEsQTDOw/BkYRf5gxd) (Written in collaboration with [Saketh Bachu](https://github.com/sakethbachu) and [Siddharth Singh](https://www.linkedin.com/in/siddharth-s-8a63a4120/))
+2. [Fast R - CNN](https://hackmd.io/@siddxsingh/S1wWhX_wd/edit) (Written in collaboration with [Saketh Bachu](https://github.com/sakethbachu) and [Siddharth Singh](https://www.linkedin.com/in/siddharth-s-8a63a4120/))
 
 ## Instance Segmentation
 
