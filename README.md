@@ -16,7 +16,6 @@ It will be really great if the user of this repository suggests any errors in my
 
 1. [Patch2Pix: Epipolar - Guided Pixel - Level Correspondences](https://hackmd.io/@GaurArihant/BJ5qmZZlu) (Written in collaboration with [Saurabh Kemekar](https://github.com/saurabhkemekar))
 2. [Neighbourhood Consensus Networks](https://hackmd.io/@GaurArihant/S1NAT2QJO) (Written in collaboration with [Saurabh Kemekar](https://github.com/saurabhkemekar))
-3. [SuperPoint: Self - Supervised Interest Point Detection and Description](https://hackmd.io/@GaurArihant/BJmth6Q1u) (Incomplete)
 
 ## SfM/SLAM/VO
 
@@ -43,7 +42,8 @@ It will be really great if the user of this repository suggests any errors in my
 ## Multiview Geometry
 
 1. [A Fast and Accurate Solution for Pose Estimation from 3D Correspondences](https://hackmd.io/@GaurArihant/BkAgL280w)
-2. [Manhatten - world Stereo](https://hackmd.io/@GaurArihant/r1KGR1JSO)
+2. [Manhatten - world Stereo](https://hackmd.io/@GaurArihant/r1KGR1JSO) (In progress)
+3. [PnP - Net: A hybrid Perspective - n - Point Network](https://hackmd.io/@GaurArihant/ryascjwY_)
 
 ## Line Segment Detection
 
