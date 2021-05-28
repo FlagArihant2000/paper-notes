@@ -52,3 +52,9 @@ It will be really great if the user of this repository suggests any errors in my
 3. [End - to - End Wireframe Parsing](https://hackmd.io/@GaurArihant/HyyyPDMK_)
 4. [Learning to Parse Wireframes in Images of Man - Made Environments](https://hackmd.io/@GaurArihant/rk_L2PfFO)
 
+
+## Neural Rendering
+
+1. [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://hackmd.io/@GaurArihant/HJxScPiKd)
+2. [Learning Implicit Fields for Generative Shape Modeling](https://hackmd.io/@GaurArihant/HJbyv-pF_)
+3. [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://hackmd.io/@GaurArihant/Hko-Nzptd)
