@@ -4,18 +4,24 @@ This repository consists of some of my paper notes. Most of the papers will be f
 
 It will be really great if the user of this repository suggests any errors in my notes. Also please star if this was useful for you!
 
-## 3D Reconstruction
+## Planar Reconstruction
 
 1. [PlaneNet: Piece - wise Planar Reconstruction from Single RGB Image](https://hackmd.io/@GaurArihant/S1rTzJDE_)
 2. [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://hackmd.io/@GaurArihant/Hkz1kVwVd)
 3. [Recovering 3D Planes from a Single Image via Convolutional Neural Networks](https://hackmd.io/@GaurArihant/H1DKifnEO)
 4. [Learning Pairwise Inter - Plane Relations for Piecewise Planar Reconstruction](https://hackmd.io/@GaurArihant/r1YxZKnE_)
 5. [Single - Image Piece - wise Planar 3D Reconstruction via Associative Embedding](https://hackmd.io/@GaurArihant/HyXLNj2Vd)
+6. [Conv - MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction](https://hackmd.io/@GaurArihant/SkZq6Y2VO)
+
+## Point Cloud Registration
+
+1. [Accelerated Gravitational Point Set Alignment with Altered Physical Laws](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/ByQD8STgv)
 
 ## Feature Extraction, Description and Matching
 
 1. [Patch2Pix: Epipolar - Guided Pixel - Level Correspondences](https://hackmd.io/@GaurArihant/BJ5qmZZlu) (Written in collaboration with [Saurabh Kemekar](https://github.com/saurabhkemekar))
 2. [Neighbourhood Consensus Networks](https://hackmd.io/@GaurArihant/S1NAT2QJO) (Written in collaboration with [Saurabh Kemekar](https://github.com/saurabhkemekar))
+3. [Distinctive Image Features from Scale - Invariant Keypoints](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/r1M2cT_C8)
 
 ## SfM/SLAM/VO
 
@@ -25,10 +31,6 @@ It will be really great if the user of this repository suggests any errors in my
 4. [Pseudo RGB - D for Self Improving Monocular SLAM and Depth Prediction](https://hackmd.io/@GaurArihant/H1MWqc1u_)
 5. [Fusing the Old with the New: Learning Relative Camera Pose with Geometry - Guided Uncertainty](https://hackmd.io/@GaurArihant/rkpr4-bOd)
 6. [TartanVO: A Generalizable Learning - Based VO](https://hackmd.io/@GaurArihant/HJUvqRmdd)
-
-## Graph Neural Networks
-
-1. [Conv - MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction](https://hackmd.io/@GaurArihant/SkZq6Y2VO)
 
 ## Object Detection
 
@@ -52,12 +54,12 @@ It will be really great if the user of this repository suggests any errors in my
 3. [End - to - End Wireframe Parsing](https://hackmd.io/@GaurArihant/HyyyPDMK_)
 4. [Learning to Parse Wireframes in Images of Man - Made Environments](https://hackmd.io/@GaurArihant/rk_L2PfFO)
 
-
-## Neural Rendering
+## Neural Implicit Representation and Rendering
 
 1. [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://hackmd.io/@GaurArihant/HJxScPiKd)
 2. [Learning Implicit Fields for Generative Shape Modeling](https://hackmd.io/@GaurArihant/HJbyv-pF_)
 3. [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://hackmd.io/@GaurArihant/Hko-Nzptd)
+4. [Implicit Neural Representations with Periodic Activation Functions](https://hackmd.io/@GaurArihant/BJY6EX7oO)
 
 ### Neural Radiance Fields (NeRF)
 
