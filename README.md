@@ -16,6 +16,7 @@ It will be really great if the user of this repository suggests any errors in my
 ## Point Cloud Registration
 
 1. [Accelerated Gravitational Point Set Alignment with Altered Physical Laws](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/ByQD8STgv)
+2. [3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration](https://hackmd.io/@GaurArihant/S1uxpJsNK)
 
 ## Feature Extraction, Description and Matching
 
